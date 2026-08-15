@@ -1,2 +1,3 @@
-type an expression 
-must have an operation and 2 numbers 
+there are 3 modes
+it can calculate expressions , compound or simple interest and does simultaneous equations! 
+
